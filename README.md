@@ -9,14 +9,11 @@ Hey, I'm Berkcan and currently living in Istanbul/Turkey. I graduated from Istan
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=berkctezc&count_private=true&show_icons=true&theme=radical&hide_rank=false">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkctezc">
 
+<hr>
+
 ## 💼 Job
 I'm working as a Software Developer in Misigo
 
 - 📫 Find me anywhere: [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=11120767919&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=11120767919&cover_image=true&theme=default)]]
-
-<!--
-- 💬 Ask me about ...
-
--->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&redirect=true)
