@@ -4,7 +4,9 @@ Hey, I'm Berkcan and currently living in Istanbul/Turkey. I graduated from Istan
 
 👨‍💻 Pronouns: He/Him
 
-🖥 Operating System: 🐧Manjaro Linux KDE & 🔠 Windows 10 Pro
+🖥 Operating Systems: 🐧Manjaro Linux KDE & 🔠 Windows 10 Pro
+
+😁 Hobbies: 🎸Guitar & Bass | ⛰️🚶 Trekking | ✍ Blogging | 🎮 Video Games | 🎞🍿 Movies | 🎧 Music
 
 🌍 All my links:  [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
 
