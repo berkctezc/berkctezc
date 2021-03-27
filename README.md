@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+![Hey](https://media.tenor.com/images/b6ca7ae6906a1d35571c2f66e4ee8c12/tenor.gif)
 
 
 ![Berkcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkctezc&show_icons=true)
