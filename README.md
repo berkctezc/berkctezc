@@ -17,5 +17,7 @@ I'm working as a Software Developer in Misigo
 
 - 📫 Find me anywhere: [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
 
+<iframe width=90% height=400 loading=lazy src="https://berkctezc.medium.com" style="border:none;"></iframe>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&redirect=true)
 
