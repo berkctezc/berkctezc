@@ -5,15 +5,17 @@ Hey, I'm Berkcan and currently living in Istanbul/Turkey. I graduated from Istan
 👨‍💻Pronouns: He/Him
 🖥 Operating System: 🐧Manjaro Linux KDE & 🔠 Windows 10 Pro
 
+## 💼 Job
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=berkctezc&count_private=true&show_icons=true&theme=radical&hide_rank=false">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkctezc">
+I'm working as a Software Developer in Misigo
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=berkctezc&count_private=true&show_icons=true&theme=dracula&hide_rank=false&border_radius=25">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkctezc&&theme=dracula&border_radius=25">
 
 <hr>
-
-## 💼 Job
-I'm working as a Software Developer in Misigo
 
 - 📫 Find me anywhere: [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&redirect=true)
+
