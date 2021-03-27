@@ -6,10 +6,16 @@ Hey, I'm Berkcan and currently living in Istanbul/Turkey. I graduated from Istan
 
 🖥 Operating Systems: 🐧Manjaro Linux KDE & 🔠 Windows 10 Pro
 
-😁 Hobbies: 🎸Guitar & Bass | ⛰️🚶 Trekking | ✍ Blogging | 🎮 Video Games | 🎞🍿 Movies | 🎧 Music
+😁 Hobbies: 🎸Guitar & Bass | ✍ Blogging | 🎮 Video Games | 🎞🍿 Movies | 🎧 Music | | ⛰️🚶 Trekking | 🏋️‍ GYM
 
 🌍 All my links:  [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
 
+<!---
+TO ADD:
+## Languages and Tools
+## Projects maybe?
+## Recent blog posts
+-->
 
 ### 💼 Job
 
