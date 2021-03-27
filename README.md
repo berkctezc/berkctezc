@@ -20,4 +20,4 @@ I'm working as a Software Developer in Misigo
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11120767919&redirect=true)
 
-![octocat](https://github.com/berkctezc/berkctezc/blob/main/octocat.png =250x)
+![octocat](https://github.com/berkctezc/berkctezc/blob/main/octocat.png)
