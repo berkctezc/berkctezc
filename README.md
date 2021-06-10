@@ -1,17 +1,17 @@
 # BERKCTEZC
 
-<img src="https://media.tenor.com/images/b6ca7ae6906a1d35571c2f66e4ee8c12/tenor.gif" alt="Hey" width="60%" />
+<div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="60%" /></div>
 
 <div align="center">
 Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Turkey. I recently graduated from Istanbul Kultur University, Mathematics and Computer Science on 2020. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various mixing software. </div>
 
-------
+---
 
 :diamond_shape_with_a_dot_inside: **Operating Systems:** :penguin: EndeavourOS KDE & :capital_abcd: Windows 10 Pro
 
-:smirk: **Hobbies:** :guitar:Guitar & Bass | ✍ Blogging | :video_game: Video Games | :vhs: Movies | :headphones: Music | :mountain: Trekking | 🏋️ GYM
+:smirk: **Hobbies:** :guitar: Guitar & Bass | ✍ Blogging | :video_game: Video Games | :vhs: Movies | :headphones: Music | :mountain: Trekking | 🏋️ GYM
 
-:earth_asia: **All my links:**  [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
+:earth_asia: **All my links:** [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
 
 ## 📝 Recent blog posts (In Turkish)
 
@@ -68,7 +68,7 @@ Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Tu
 
 I'm working as a Software Developer in Misigo
 
-##  🐙 GitHub Stats
+## 🐙 GitHub Stats
 
 <details>
     <summary>Click to expand</summary>
@@ -76,16 +76,19 @@ I'm working as a Software Developer in Misigo
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkctezc&&theme=dracula&border_radius=25&langs_count=10&layout=compact" style="zoom:120%;"></div>
 </details>
-------
 
-<img src="https://media.tenor.com/images/b2f8f5e586dcae11fbbeeb3d36b401f2/tenor.gif" alt="!!!" width="100%" />
+---
+
+<img src="assets/r2d2.gif" alt="!!!" width="100%" />
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile"  /> </div>
-<div align="center"><img src="assets/octocat.png" alt="octocat" style="zoom:40;" /></div>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile"  /> 
+<br>
+<img src="assets/octocat.png" alt="octocat" style="zoom:40;" />
 <details>
   <summary>Top Secret!</summary>
  <img src="assets/leia.jpg" alt="LEIA THE CAT" style="zoom:20;" />
     <br>
  <p>🙀 MEOW, I'M LEIA</p>
 </details>
+</div>
