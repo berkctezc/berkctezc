@@ -44,7 +44,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="32" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/unity-editor-icon-icon.png"></code>
 </details>
-## 🧰 Software
+<h2>🧰 Software</h2>
 
 <details>
     <summary>Click to expand</summary>
