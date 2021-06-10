@@ -74,7 +74,9 @@ I'm working as a Software Developer in Misigo
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkctezc&&theme=dracula&border_radius=25&langs_count=10&layout=compact" style="zoom:120%;"></div>
 </details>
----
+    
+    </hr>
+    
 <img src="assets/r2d2.gif" alt="!!!" width="100%" />
 
 <div align="center">
