@@ -2,8 +2,7 @@
 
 <div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="60%" /></div>
 
-<div align="center">
-Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Turkey. I recently graduated from Istanbul Kultur University, Mathematics and Computer Science on 2020. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various mixing software. </div>
+<div align="center">Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Turkey. I recently graduated from Istanbul Kultur University, Mathematics and Computer Science on 2020. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various mixing software. </div>
 
 ---
 
@@ -24,7 +23,7 @@ Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Tu
 <li><a href="https://berkctezc.medium.com/git-kullanimi-75dfdde77692" target="_blank">⚙️ Git Kullanmaya Başlayalım</a></li>
 </ul>
 </details>
-## 👨‍💻 Learning and Using
+<h2>👨‍💻 Learning and Using</h2>
 
 <details>
     <summary>Click to expand</summary>
@@ -45,7 +44,6 @@ Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Tu
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="32" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/unity-editor-icon-icon.png"></code>
 </details>
-
 ## 🧰 Software
 
 <details>
@@ -64,7 +62,7 @@ Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Tu
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
 </details>
-## :briefcase: Job
+<h2>💼 Job </h2>
 
 I'm working as a Software Developer in Misigo
 
@@ -76,19 +74,18 @@ I'm working as a Software Developer in Misigo
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkctezc&&theme=dracula&border_radius=25&langs_count=10&layout=compact" style="zoom:120%;"></div>
 </details>
-
 ---
-
 <img src="assets/r2d2.gif" alt="!!!" width="100%" />
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile"  /> 
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile" width="40%" /> 
 <br>
-<img src="assets/octocat.png" alt="octocat" style="zoom:40;" />
+<img src="assets/octocat.png" alt="octocat" width="50%" />
 <details>
   <summary>Top Secret!</summary>
- <img src="assets/leia.jpg" alt="LEIA THE CAT" style="zoom:20;" />
+ <img src="assets/leia.jpg" alt="LEIA THE CAT" width="50%" />
     <br>
  <p>🙀 MEOW, I'M LEIA</p>
 </details>
 </div>
+<img src="assets/yoda.gif" alt="LEIA THE CAT" width="100%" />
