@@ -10,7 +10,7 @@
 
 :smirk: **Hobbies:** :guitar: Guitar & Bass | ✍ Blogging | :video_game: Video Games | :vhs: Movies | :headphones: Music | :mountain: Trekking | 🏋️ GYM
 
-:earth_asia: **All my links:** [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://berkctezc.github.io)
+:earth_asia: [**All my links**](https://berkctezc.github.io) 
 
 ## 📝 Recent blog posts (In Turkish)
 
