@@ -2,7 +2,7 @@
 
 <div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="60%" /></div>
 
-<div align="center">Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Turkey. I recently graduated from Istanbul Kultur University, Mathematics and Computer Science on 2020. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various mixing software. </div>
+<div align="center">Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Turkey. I recently graduated from Istanbul Kultur University, Mathematics and Computer Science on 2020. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various music software. </div>
 
 ---
 
