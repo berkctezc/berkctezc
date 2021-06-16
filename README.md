@@ -1,6 +1,6 @@
 # BERKCTEZC
 
-<div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="60%" /></div>
+<div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="55%" /></div>
 
 <div align="center">Hey, i am happy to see you here. I'm Berkcan and currently living in Istanbul/Turkey. I recently graduated from Istanbul Kultur University, Mathematics and Computer Science on 2020. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various music software. </div>
 
@@ -12,7 +12,7 @@
 
 :earth_asia: [**All my links**](https://berkctezc.github.io) 
 
-## 📝 Recent blog posts (In Turkish)
+<h2> 📝 Recent blog posts (In Turkish)</h2>
 
 <details>
     <summary>Click to expand</summary>
@@ -23,50 +23,56 @@
 <li><a href="https://berkctezc.medium.com/git-kullanimi-75dfdde77692" target="_blank">⚙️ Git Kullanmaya Başlayalım</a></li>
 </ul>
 </details>
-<h2>👨‍💻 Learning and Using</h2>
+<h2> 👨‍💻 Learning and Using</h2>
 
 <details>
     <summary>Click to expand</summary>
 <ul> 
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
-<code><img height="32" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/unity-editor-icon-icon.png"></code>
+<div align="center">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    <img height="36" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+    <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    <img height="36" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/unity-editor-icon-icon.png">
+</div>
 </details>
-<h2>🧰 Software and Tools</h2>
+
+<h2> 🧰 Software and Tools</h2>
 
 <details>
     <summary>Click to expand</summary>
 <ul>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="32" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"></code>
+<div align="center">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+    <img height="36" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+    <img height="36" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img height="36" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+</div>
 </details>
-<h2>💼 Job </h2>
+
+<h2> 💼 Job </h2>
 
 I'm working as a Software Developer in Misigo
 
-## 🐙 GitHub Stats
+<h2> 🐙 GitHub Stats </h2>
 
 <details>
     <summary>Click to expand</summary>
@@ -74,14 +80,16 @@ I'm working as a Software Developer in Misigo
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkctezc&&theme=dracula&border_radius=25&langs_count=10&layout=compact" style="zoom:120%;"></div>
 </details>
-    
+
 ---
-    
-<img src="assets/r2d2.gif" alt="!!!" width="100%" />
 
 <div align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile" width="40%" /> 
-<br>
+<img src="assets/r2d2.gif" alt="!!!" width="90%"/>
+    <br>
+<span><img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile" width="30%" />
+<img src="https://lastfm-recently-played.vercel.app/api?user=berkctezc" alt="My scrobbles" width="40%" /> 
+</span>
+</br>
 <img src="assets/octocat.png" alt="octocat" width="50%" />
 <details>
   <summary>Top Secret!</summary>
@@ -89,5 +97,6 @@ I'm working as a Software Developer in Misigo
     <br>
  <p>🙀 MEOW, I'M LEIA</p>
 </details>
+</br>
+<img src="assets/yoda.gif" alt="LEIA THE CAT" width="90%" />
 </div>
-<img src="assets/yoda.gif" alt="LEIA THE CAT" width="100%" />
