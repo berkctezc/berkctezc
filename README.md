@@ -84,13 +84,13 @@ I'm working as a Software Developer in Misigo
 ---
 
 <div align="center">
-<img src="assets/r2d2.gif" alt="!!!" width="90%"/>
+<img src="assets/r2d2.gif" alt="!!!" width="70%"/>
     <br>
-<span><img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile" width="30%" />
-<img src="https://lastfm-recently-played.vercel.app/api?user=berkctezc" alt="My scrobbles" width="40%" /> 
+<span><img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile" width="40%" />
+<img src="https://lastfm-recently-played.vercel.app/api?user=berkctezc" alt="My scrobbles" width="50%" /> 
 </span>
 </br>
-<img src="assets/octocat.png" alt="octocat" width="50%" />
+<img src="assets/octocat.png" alt="octocat" height="480px" />
 <details>
   <summary>Top Secret!</summary>
  <img src="assets/leia.jpg" alt="LEIA THE CAT" width="50%" />
@@ -98,5 +98,5 @@ I'm working as a Software Developer in Misigo
  <p>🙀 MEOW, I'M LEIA</p>
 </details>
 </br>
-<img src="assets/yoda.gif" alt="LEIA THE CAT" width="90%" />
+<img src="assets/yoda.gif" alt="LEIA THE CAT" width="70%" />
 </div>
