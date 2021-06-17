@@ -86,8 +86,8 @@ I'm working as a Software Developer in Misigo
 <div align="center">
 <img src="assets/r2d2.gif" alt="!!!" width="70%"/>
     <br>
-<span><img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify-github-profile" width="40%" />
-<img src="https://lastfm-recently-played.vercel.app/api?user=berkctezc" alt="My scrobbles" width="50%" /> 
+<span><img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify" width="40%" />
+<img src="https://lastfm-recently-played.vercel.app/api?user=berkctezc&count=6" alt="last-fm" width="50%" /> 
 </span>
 </br>
 <img src="assets/octocat.png" alt="octocat" height="480px" />
