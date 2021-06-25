@@ -86,7 +86,9 @@ I'm working as a Software Developer in Misigo
 <div align="center">
 <img src="assets/r2d2.gif" alt="!!!" width="70%"/>
     <br>
+    <!-- Spotify
 <span><img src="https://spotify-github-profile.vercel.app/api/view?uid=11120767919&cover_image=true&theme=default" alt="spotify" width="40%" />
+-->
 <img src="https://lastfm-recently-played.vercel.app/api?user=berkctezc&count=6" alt="last-fm" width="50%" /> 
 </span>
 </br>
