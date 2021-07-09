@@ -67,11 +67,7 @@
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
 </div>
 </details>
-<!--
-<h2> 💼 Job </h2>
 
-I'm working as a Software Developer in Misigo
- -->
 <h2> 🐙 GitHub Stats </h2>
 
 <details>
