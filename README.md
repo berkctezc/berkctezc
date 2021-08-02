@@ -68,6 +68,9 @@
 </div>
 </details>
 
+<h2> 💼 Job </h2>
+I'm working as a Software Developer at [Tiko](https://tiko.es/)
+    
 <h2> 🐙 GitHub Stats </h2>
 
 <details>
