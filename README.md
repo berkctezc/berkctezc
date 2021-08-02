@@ -69,7 +69,7 @@
 </details>
 
 <h2> 💼 Job </h2>
-I'm working as a Software Developer at [Tiko](https://tiko.es/)
+    I'm working as a Software Developer at <a target="_blank" href="https://tiko.es">Tiko</a>
     
 <h2> 🐙 GitHub Stats </h2>
 
