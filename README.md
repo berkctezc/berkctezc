@@ -32,7 +32,8 @@
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     <img height="36" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
     <img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
