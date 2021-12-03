@@ -6,7 +6,7 @@
 
 ---
 
-:diamond_shape_with_a_dot_inside: **Operating Systems:** :penguin: EndeavourOS KDE & :capital_abcd: Windows 10 Pro
+:diamond_shape_with_a_dot_inside: **Operating Systems:** :penguin: EndeavourOS KDE & :window: Windows 11 Pro
 
 :smirk: **Hobbies:** :guitar: Guitar & Bass | ✍ Blogging | :video_game: Video Games | :vhs: Movies | :headphones: Music | :mountain: Trekking | 🏋️ GYM
 
@@ -32,6 +32,7 @@
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+    <img height="36" src="https://raw.githubusercontent.com/xunit/xunit/main/src/xunit.ico">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
     <img height="36" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
@@ -56,12 +57,15 @@
 <div align="center">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
     <img height="36" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+    <img height="36" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png">
     <img height="36" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img height="36" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+    <img height="36" src="https://jmeter.apache.org/images/favicon.png">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
     <img height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
