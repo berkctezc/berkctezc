@@ -105,6 +105,6 @@
 </details>
 </br>
 <img src="assets/yoda.gif" alt="LEIA THE CAT" width="70%" />
-</div>
 </br>
 <img src="https://raw.githubusercontent.com/berkctezc/berkctezc/output/github-snake.svg" alt="commits" width="70%" />
+</div>
