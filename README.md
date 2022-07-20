@@ -6,7 +6,7 @@
 
 ---
 
-:diamond_shape_with_a_dot_inside: **Operating Systems:** :penguin: EndeavourOS KDE & :window: Windows 11 Pro
+:diamond_shape_with_a_dot_inside: **Operating Systems:** :penguin: EndeavourOS KDE & 🎩 Fedora LXQt & :window: Windows 11 Pro
 
 :smirk: **Hobbies:** :guitar: Guitar & Bass | ✍ Blogging | :video_game: Video Games | :vhs: Movies | :headphones: Music | :mountain: Trekking | 🏋️ GYM
 
