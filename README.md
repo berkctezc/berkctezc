@@ -1,18 +1,21 @@
 # BERKCTEZC
 
-<div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="55%" /></div>
+<div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="55%"/></div>
 
 <div align="center">Hey, i am happy to see you here. I am Berkcan and currently living in Istanbul/Turkey. I graduated from Istanbul Kultur University, Mathematics and Computer Science in 2020 and currently working at a industry leading company named Tiko. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various music software. </div>
 
 ---
 
-:diamond_shape_with_a_dot_inside: **Operating Systems:** :penguin: EndeavourOS KDE & 🎩 Fedora LXQt & :window: Windows 11 Pro
+💠 **Operating Systems:** 🐧 EndeavourOS KDE & 🎩 Fedora LXQt & 🪟 Windows 11 Pro
 
-:smirk: **Hobbies:** :guitar: Guitar & Bass | ✍ Blogging | :video_game: Video Games | :vhs: Movies | :headphones: Music | :mountain: Trekking | 🏋️ GYM
+😏 **Hobbies:** 🎸 Guitar & Bass | 🕹️ Video Games | 📼 Movies | 🎧 Music | ⛰️ Trekking | 🍷 Winemaking | 🍸 Mixology
 
-:earth_asia: [**All my links**](https://berkctezc.github.io) 
+🫗 **Favorite Drinks:** ☕ Coffee | 🥃 Whiskey | 🍺 Beer | 🍷 Wine
 
-<h2> 📝 Recent blog posts (In Turkish)</h2>
+
+🌍 [**All my links**](https://berkctezc.github.io) 
+
+<h2>📝 Recent blog posts (In Turkish)</h2>
 
 <details>
     <summary>Click to expand</summary>
@@ -23,7 +26,7 @@
 <li><a href="https://berkctezc.medium.com/git-kullanimi-75dfdde77692" target="_blank">⚙️ Git Kullanmaya Başlayalım</a></li>
 </ul>
 </details>
-<h2> 👨‍💻 Learning and Using</h2>
+<h2>👨‍💻 Learning and Using</h2>
 
 <details>
     <summary>Click to expand</summary>
@@ -73,10 +76,10 @@
 </div>
 </details>
 
-<h2> 💼 Job </h2>
+<h2>💼 Job</h2>
     I'm working as a Software Developer at <a target="_blank" href="https://tiko.es">Tiko</a>
     
-<h2> 🐙 GitHub Stats </h2>
+<h2>🐙 GitHub Stats</h2>
 
 <details>
     <summary>Click to expand</summary>
