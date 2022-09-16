@@ -6,7 +6,7 @@
 
 ---
 
-💠 **Operating Systems:** 🐧 EndeavourOS KDE & 🎩 Fedora LXQt & 🪟 Windows 11 Pro
+💠 **Operating Systems:** 🐧🎩 Fedora KDE & 🪟 Windows 11 Pro
 
 😏 **Hobbies:** 🎸 Guitar & Bass | 🕹️ Video Games | 📼 Movies | 🎧 Music | ⛰️ Trekking | 🍷 Winemaking | 🍸 Mixology
 
