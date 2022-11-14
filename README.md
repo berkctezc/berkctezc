@@ -15,11 +15,12 @@
 
 🌍 [**All my links**](https://berkctezc.github.io) 
 
-<h2>📝 Recent blog posts (In Turkish)</h2>
+<h2>📝 Recent blog posts (Mixed Languages)</h2>
 
 <details>
     <summary>Click to expand</summary>
-<ul> 
+<ul>
+<li><a href="https://berkctezc.medium.com/the-correct-way-to-install-openvpn-client-on-linux-9aebd759ba73" target="_blank">⚙️ OpenVPN Linux Configuration</a></li>
 <li><a href="https://berkctezc.medium.com/ui-ux-design-temelleri-ve-ba%C5%9Flang%C4%B1%C3%A7-yolharitas%C4%B1-944a302ee4d6" target="_blank">⚙️ UI/UX Design Temelleri ve Başlangıç Yolharitası</a></li>
 <li><a href="https://berkctezc.medium.com/zero-to-one-411a91aeeadd" target="_blank">⚙️ Zero to One‘dan Notlar</a></li>
 <li><a href="https://berkctezc.medium.com/bash-komutlar%C4%B1-47a0811260e3" target="_blank">⚙️ Bash Komutları</a></li>
