@@ -6,7 +6,7 @@
 
 ---
 
-💠 **Operating Systems:** 🐧🦅 Garuda Linux GNOME & 🪟 Windows 11 Pro
+💠 **Operating Systems:** macOS 🍎 | Garuda Linux GNOME 🦅 | Windows 11 Pro 🪟
 
 😏 **Hobbies:** 🎸 Guitar & Bass | 🕹️ Video Games | 📼 Movies | 🎧 Music | ⛰️ Trekking | 🍷 Winemaking | 🍸 Mixology
 
