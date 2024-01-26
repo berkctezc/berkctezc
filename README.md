@@ -10,9 +10,6 @@
 
 😏 **Hobbies:** 🎸 Guitar & Bass | 🕹️ Video Games | 📼 Movies | 🎧 Music | ⛰️ Trekking | 🍷 Winemaking | 🍸 Mixology
 
-🫗 **Favorite Drinks:** ☕ Coffee | 🥃 Whiskey | 🍺 Beer | 🍷 Wine
-
-
 🌍 [**All my links**](https://berkctezc.github.io) 
 
 <h2>📝 Recent blog posts (Mixed Languages)</h2>
