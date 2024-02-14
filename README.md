@@ -71,9 +71,6 @@
 </div>
 </details>
 
-<h2>💼 Job</h2>
-    I'm working as a Software Developer at <a target="_blank" href="https://www.beymengroup.com">Beymen Group</a>
-    
 <h2>🐙 GitHub Stats</h2>
 
 <details>
