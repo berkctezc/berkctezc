@@ -6,7 +6,7 @@
 
 ---
 
-💠 **Operating Systems:** macOS 🍎 | Arch Linux 🐧 | Windows 🪟
+💠 **Operating Systems:** macOS 🍎 | Debian 🍥 | Windows 🪟
 
 😏 **Hobbies:** 🎸 Guitar & Bass | 🕹️ Video Games | 📼 Movies | 🎧 Music | 🍷 Winemaking | 🍸 Mixology
 
