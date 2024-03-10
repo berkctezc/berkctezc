@@ -6,7 +6,7 @@
 
 ---
 
-💠 **Operating Systems:** macOS 🍎 | Debian 🍥 | Windows 🪟
+💠 **Operating Systems:** macOS 🍎 | Arch Linux 🔼 | Debian 🍥 | Windows 🪟
 
 😏 **Hobbies:** 🎸 Guitar & Bass | 🕹️ Video Games | 📼 Movies | 🎧 Music | 🍷 Winemaking | 🍸 Mixology
 
@@ -48,7 +48,7 @@
 <h2>🧰 Software and Tools</h2>
 
 <details>
-    <summary>Click to expand</summary>
+    <summary>:suspect: Click to expand</summary>
 <ul>
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
@@ -71,7 +71,7 @@
 </div>
 </details>
 
-<h2>🐙 GitHub Stats</h2>
+<h2>:octocat: GitHub Stats</h2>
 
 <details>
     <summary>Click to expand</summary>
@@ -93,7 +93,7 @@
   <summary>Top Secret!</summary>
  <img src="assets/leia.jpg" alt="LEIA THE CAT" width="50%" />
     <br>
- <p>🙀 MEOW, I'M LEIA</p>
+ <p>🙀 MEOW, I'M LEIA :shipit: </p>
 </details>
 </br>
 <img src="assets/yoda.gif" alt="LEIA THE CAT" width="70%" />
