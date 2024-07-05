@@ -8,7 +8,7 @@
 
 💿 **Operating Systems:** macOS <img height="16" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" loading="lazy"> | Linux <img title="GNU/Linux perhaps? 🤔" height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" loading="lazy"> | Windows <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" loading="lazy">
 
-<img height="16" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Other-linux-logo.svg" loading="lazy"> **Distros:** Arch Linux <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" loading="lazy"> | Debian <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" loading="lazy"> | Ubuntu Server <img height="16" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" loading="lazy"> | Fedora <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" loading="lazy">
+<img height="16" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Other-linux-logo.svg" loading="lazy"> **Distros:** Arch Linux <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" loading="lazy"> | Debian <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" loading="lazy"> | Ubuntu <img height="16" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" loading="lazy">
 
 😏 **Hobbies:** Guitar & Bass 🎸 | Video Games 🕹️ | Movies 📼 | Music 🎧 | Homelab 📟
 
