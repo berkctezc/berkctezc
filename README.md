@@ -2,15 +2,13 @@
 
 <div align="center"><img src="assets/hello_there.gif" alt="Hello There" width="40%" loading="lazy"/></div>
 
-<div align="center">Hey, i am happy to see you here. I am Berkcan and currently located in Ankara/Turkey. I graduated from Istanbul Kultur University, Mathematics and Computer Science in 2020 and currently working at a industry leading company named Loodos. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech i love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various music software. </div>
+<div align="center">Hey, I’m happy to see you here. I am Berkcan and currently located in Ankara/Turkey. I graduated from Istanbul Kultur University, Mathematics and Computer Science in 2020 and currently working at an industry-leading company named Loodos. I love programming and tech, sometimes i blog about things i learned to share my knowledge on medium. I always enjoy learning new things and add more technologies, tools to my toolkit. Outside of tech, I love rock and metal music both listening and playing. I play guitar and bass in my spare time and trying to learn mixing and mastering on various music software. </div>
 
 ---
 
-💿 **Operating Systems:** macOS <img height="16" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" loading="lazy"> | Linux <img title="GNU/Linux perhaps? 🤔" height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" loading="lazy"> | Windows <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" loading="lazy">
+💿 **Operating Systems:** macOS <img height="16" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" loading="lazy"> | Linux <img title="GNU/Linux perhaps? 🤔" height="16" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Other-linux-logo.svg" loading="lazy"> (<img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" loading="lazy" title="Arch Linux">/<img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" loading="lazy" title="Debian">/<img height="16" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" loading="lazy" title="Ubuntu">) | Windows <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" loading="lazy">
 
-<img height="16" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Other-linux-logo.svg" loading="lazy"> **Distros:** Arch Linux <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" loading="lazy"> | Debian <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" loading="lazy"> | Ubuntu <img height="16" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" loading="lazy">
-
-😏 **Hobbies:** Guitar & Bass 🎸 | Video Games 🕹️ | Movies 📼 | Music 🎧 | Homelab 📟
+😏 **Hobbies:** Guitar & Bass 🎸 | Video Games 🕹️ | Movies 📼 | Music 🎧 | Board Games 🎲 | Homelab 📟 | Cooking 🍲 | Coffee ☕️ | Mixology 🧉
 
 🌍 [**All my links**](https://berkctezc.github.io)
 
