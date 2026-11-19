@@ -6,9 +6,9 @@
 
 ---
 
-💿 **Operating Systems:** macOS <img height="16" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" loading="lazy"> | Linux <img title="GNU/Linux perhaps? 🤔" height="16" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Other-linux-logo.svg" loading="lazy"> (<img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" loading="lazy" title="Arch Linux">/<img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" loading="lazy" title="Debian">/<img height="16" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" loading="lazy" title="Ubuntu">) | Windows <img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" loading="lazy">
+💿 **Operating Systems:** Linux <img title="GNU/Linux perhaps? 🤔" height="16" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" loading="lazy"> (Daily:<img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" loading="lazy" title="Arch Linux"> Server:<img height="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" loading="lazy" title="Debian">/<img height="16" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" loading="lazy" title="Ubuntu">) | macOS <img height="16" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" loading="lazy">
 
-😏 **Hobbies:** Guitar & Bass 🎸 | Video Games 🕹️ | Movies 📼 | Music 🎧 | Board Games 🎲 | Homelab 📟 | Cooking 🍲 | Coffee ☕️ | Mixology 🧉
+😏 **Hobbies:** Guitar & Bass 🎸 | Video Games 🕹️ | Movies 📼 | Music 🎧 | Board Games/EDH 🎲🐲️ | Homelab 📟 | Cooking 🍲 | Coffee ☕️ | Mixology 🧉
 
 🌍 [**All my links**](https://berkctezc.github.io)
 
